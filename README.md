@@ -1,7 +1,5 @@
 ![Menu](https://github.com/fatduck1807/love/blob/main/image.png)
 
-I created this app because I was tired of manually applying dozens of tweaks every time I reinstalled Windows. It was boring and time-consuming, so I built a simple tool to automate the entire process.
-
 ---
 
 ## ✨ Features
@@ -9,14 +7,6 @@ I created this app because I was tired of manually applying dozens of tweaks eve
 - Apply GPU and Windows performance tweaks for smoother gaming.  
 - Multiple **options and settings** so you stay in control before optimization.  
 - One-click install of essential **runtimes** (DirectX, Visual C++ Redistributable).
-
----
-
-## 📥 Download
-👉 [Download latest release](https://github.com/fatduck1807/love/releases/latest)  
-
-Password (if asked): `123`
-- (Packed in `.rar` format with password to avoid false antivirus detections.)
 
 ---
 
